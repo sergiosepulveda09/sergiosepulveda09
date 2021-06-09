@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergiosepulveda09
-- 👀 I’m interested in iOS Development and Cybersecurity
-- 🌱 I’m currently learning Swift and Python
+- 👀 I’m interested in iOS Development, Kotlin and Cybersecurity
+- 🌱 I’m currently learning Swift, Python and Kotlin
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me @SergioAndresSep on Twitter! 
 
