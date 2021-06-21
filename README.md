@@ -39,7 +39,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sergiosepulveda09&show_icons=true&theme=ayu-mirage" />
 </a>
 <a href="https://github.com/sergiosepulveda09">
-  <img align="right" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosepulveda09&layout=compact&theme=ayu-mirage" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosepulveda09&layout=compact&theme=ayu-mirage" />
 </a>
 
 <!---
