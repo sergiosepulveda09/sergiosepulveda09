@@ -1,4 +1,4 @@
-## Hi there 👋 I'm <a href="https://sergiosepulveda09.github.io/Practice/">Sergio</a> but you can call me Checho!
+## Hi there 👋 I'm <a href="https://sergiosepulveda09.github.io/Practice/" target="_blank">Sergio</a> but you can call me Checho!
 
 - 👋 Hi, I’m @sergiosepulveda09
 - 👀 I’m cuurrently developing mobile apps in iOS.
