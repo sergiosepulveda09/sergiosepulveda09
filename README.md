@@ -36,10 +36,10 @@
 
 
 <a href="https://github.com/sergiosepulveda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiosepulveda09&show_icons=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiosepulveda09&show_icons=true&theme=ayu-mirage" />
 </a>
 <a href="https://github.com/sergiosepulveda09">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosepulveda09&layout=compact&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosepulveda09&layout=compact&theme=ayu-mirage" />
 </a>
 
 <!---
