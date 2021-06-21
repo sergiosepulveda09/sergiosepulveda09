@@ -21,7 +21,7 @@
 <div></div>
 
 ## Skills:
-<a href="">
+<a href="https://github.com/sergiosepulveda09">
 <img align="center" src="https://img.icons8.com/plasticine/100/000000/swift--v2.png" />
 <img align="center" src="https://img.icons8.com/dusk/100/000000/java-coffee-cup-logo.png" />
 <img align="center" src="https://img.icons8.com/color/100/000000/c-programming.png" />
@@ -35,7 +35,7 @@
 ## My Github Stats!
 
 
-<a href="https://github.com/sergiosepulveda">
+<a href="https://github.com/sergiosepulveda09">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sergiosepulveda09&show_icons=true&theme=ayu-mirage" />
 </a>
 
