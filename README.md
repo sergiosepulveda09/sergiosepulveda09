@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm <a href="https://sergiosepulveda09.github.io/Practice/" target="_blank">Sergio</a> but you can call me Checho!
-
+![](https://visitor-badge.laobi.icu/badge?page_id=sergiosepulveda09.sergiosepulveda09)
 - 👋 Hi, I’m @sergiosepulveda09
 - 👀 I’m cuurrently developing mobile apps in iOS.
 - 🌱 I’m currently learning Swift, Python and Kotlin, React.
@@ -41,6 +41,11 @@
 <a href="https://github.com/sergiosepulveda09">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosepulveda09&layout=compact&theme=ayu-mirage" />
 </a>
+<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosepulveda09&theme=ayu-mirage" />
+
+
+
+
 
 <!---
 sergiosepulveda09/sergiosepulveda09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
