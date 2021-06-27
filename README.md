@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm <a href="https://sergiosepulveda09.github.io/Practice/" target="_blank">Sergio</a> but you can call me Checho!
 ![](https://visitor-badge.laobi.icu/badge?page_id=sergiosepulveda09.sergiosepulveda09)
 - 👋 Hi, I’m @sergiosepulveda09
-- 👀 I’m cuurrently developing mobile apps in iOS.
-- 🌱 I’m currently learning Swift, Python and Kotlin, React.
+- 👀 I’m currently developing mobile apps in iOS.
+- 🌱 I’m currently learning Swift, Python and Kotlin, React as well.
 - 💞️ I’m looking to collaborate on anything! 
 - 🌱 I'm currently looking for a mentor, I would be very happy to get in contact with you if you want to be my mentor!
-- 📫 How to reach me @SergioAndresSep on Twitter!
-- ⚡ Fun fact: I look way younger that I actually am! 
+- 📫 Find me as @SergioAndresSep on Twitter!
+- ⚡ Fun fact: I look way younger than I actually am! 
 - Currently looking for a job!
 
 ## ✉️Find me on:
