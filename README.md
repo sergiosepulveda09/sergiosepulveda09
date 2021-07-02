@@ -1,4 +1,4 @@
-## Hi there 👋 I'm <a href="https://sergiosepulveda09.github.io/Practice/" target="_blank">Sergio</a> but you can call me Checho!
+## Hi there 👋 I'm <a href="https://sergiosepulveda09.github.io/WebsitePrototype2/" target="_blank">Sergio</a> but you can call me Checho!
 ![](https://visitor-badge.laobi.icu/badge?page_id=sergiosepulveda09.sergiosepulveda09)
 - 👋 Hi, I’m @sergiosepulveda09
 - 👀 I’m currently developing mobile apps in iOS and Making some Personal Websites as a practice!
