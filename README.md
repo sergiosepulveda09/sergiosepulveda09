@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=sergiosepulveda09.sergiosepulveda09)
 - 👋 Hi, I’m @sergiosepulveda09
 - 👀 I’m currently developing mobile apps in iOS and Making some Personal Websites as a practice!
-- 🌱 I’m currently learning Swift, Python, React, Kotlin and Javascript as well.
+- 🌱 I’m currently learning Swift, Kotlin and Javascript as well. Actually I am always learning!
 - 💞️ I’m looking to collaborate on anything! 
 - 🌱 I'm currently looking for a mentor, I would be very happy to get in contact with you if you want to be my mentor!
 - 📫 Find me as @SergioAndresSep on Twitter!
