@@ -7,7 +7,7 @@
 - 🌱 I'm currently looking for a mentor, I would be very happy to get in contact with you if you want to be my mentor!
 - 📫 Find me as @SergioAndresSep on Twitter!
 - ⚡ Fun fact: I look way younger than I actually am! 
-- Currently looking for a job!
+- Currently looking for a job and enhancing my swiftui skills !
 
 ## ✉️Find me on:
 
