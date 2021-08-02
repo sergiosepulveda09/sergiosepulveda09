@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I look way younger than I actually am! 
 - Currently looking for a job and enhancing my swiftui skills !
 
-## ✉️Find me on:
+## ✉️Find Me On:
 
 <a href="https://twitter.com/SergioAndresSep">
   <img align="center" src="https://img.icons8.com/bubbles/100/000000/twitter.png"/>
